@@ -1,3 +1,8 @@
 test 02
 Linea 1 - feature/002
+<<<<<<< HEAD
 Linea 1 - master
+=======
+Linea 1 - feature/003
+Linea 2 - feature/003
+>>>>>>> feature/003
